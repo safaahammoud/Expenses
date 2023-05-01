@@ -1,4 +1,4 @@
-import ChartBar from './ChartBar';
+import ChartBar from './ChartBar/ChartBar';
 import './Chart.css';
 
 const Chart = (props) => {

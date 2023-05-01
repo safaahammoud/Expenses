@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import ExpensesList from './ExpensesList';
-import ExpensesFilter from './ExpensesFilter';
+import ExpensesList from './ExpensesList/ExpensesList';
+import ExpensesFilter from './ExpensesFilter/ExpensesFilter';
 import ExpensesChart from './ExpensesChart';
 
 const Expenses = (props) => {
