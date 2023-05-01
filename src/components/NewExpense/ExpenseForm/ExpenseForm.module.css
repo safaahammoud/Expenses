@@ -6,6 +6,14 @@
   text-align: left;
 }
 
+.new-expense__control.invalid label {
+  color: red;
+}
+
+.new-expense__control.invalid input {
+  background: salmon;
+}
+
 .new-expense__control label {
   font-weight: bold;
   margin-bottom: 0.5rem;
